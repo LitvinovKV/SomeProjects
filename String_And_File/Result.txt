@@ -1,0 +1,15 @@
+/home/icqking/CPlusPlusProjects/SummerPractice/.vscode/tasks.json
+/home/icqking/CPlusPlusProjects/c++/FirstProgramm/.vscode/tasks.json
+/home/icqking/CPlusPlusProjects/c++/TinkoffExamples/Seventh/.vscode/tasks.json
+/home/icqking/CPlusPlusProjects/c++/TinkoffExamples/Third/.vscode/tasks.json
+/home/icqking/CPlusPlusProjects/c++/TinkoffExamples/Fourth/.vscode/tasks.json
+/home/icqking/CPlusPlusProjects/c++/TinkoffExamples/Sixth/.vscode/tasks.json
+/home/icqking/CPlusPlusProjects/c++/TinkoffExamples/First/.vscode/tasks.json
+/home/icqking/CPlusPlusProjects/c++/TinkoffExamples/Fifth/.vscode/tasks.json
+/home/icqking/CPlusPlusProjects/c++/TinkoffExamples/Second/.vscode/tasks.json
+/home/icqking/CPlusPlusProjects/c++/Algorithms/.vscode/tasks.json
+/home/icqking/CPlusPlusProjects/lab1/.vscode/tasks.json
+/home/icqking/CPlusPlusProjects/SomePractice/String.txt
+/home/icqking/CPlusPlusProjects/SomePractice/.vscode/tasks.json
+/home/icqking/CPlusPlusProjects/OOPC++/task1/.vscode/tasks.json
+/home/icqking/CPlusPlusProjects/OOPC++/task2/.vscode/tasks.json
